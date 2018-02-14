@@ -1,6 +1,6 @@
 // Einstellen der Uhrzeit vom RTC3231
-// Die aktuelle Zeit wird in Setup() eingestellt und beim Start übertragen
-// Dazu wird das Programm ca. 4 Sekunden vor der eingestellten Zeit übersetzt 
+// aktuelle Zeit wird in Setup() eingestellt und beim Start übertragen
+// Programm ca. 4 Sekunden vor der eingestellten Zeit übersetzt 
 // und übertragen, dann ist es rechtzeitig fertig
 
 
