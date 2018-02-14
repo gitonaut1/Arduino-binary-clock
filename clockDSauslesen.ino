@@ -1,8 +1,6 @@
 // Die Uhrzeit auslesen von der Uhr RTC3231
 // Die Uhr ist sehr genau mit einem Temperatur kompensierten Takt
 // Der Fehler beträgt +-2ppm bei 0-40°C oder max ca. 1 Minute pro Jahr
-//
-// Matthias Busse 6.11.2016 Version 1.0
 
 #include "Wire.h"
 #define DS3231_ADDRESSE 0x68
