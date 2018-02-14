@@ -2,8 +2,7 @@
 // Die aktuelle Zeit wird in Setup() eingestellt und beim Start übertragen
 // Dazu wird das Programm ca. 4 Sekunden vor der eingestellten Zeit übersetzt 
 // und übertragen, dann ist es rechtzeitig fertig
-//
-// Matthias Busse 7.11.2016 Version 1.0
+
 
 #include "Wire.h"
 #define DS3231_ADDRESSE 0x68
